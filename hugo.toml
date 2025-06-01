@@ -3,4 +3,16 @@ publishDir = "docs"
 languageCode = 'en-us'
 title = 'Khacke blog'
 theme = 'PaperMod'
+enableRobotsTXT = true
 
+[params]
+description = "Khacke blog"
+keywords = ["programming", "recreational programming", "khacke"]
+env = "production"
+defaultTheme = "dark" 
+disableThemeToggle = true
+disableGitHubPagesSEO = false
+
+[sitemap]
+changeFreq = "weekly"
+priority = 1.0
