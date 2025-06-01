@@ -1,0 +1,6 @@
+{{ $img := resources.Get (printf "images/%s" (.Get "src")) }}
+{{ with $img }}
+  <img src="{{ .RelPermalink }}" width="{{ .Width }}" height="{{ .Height }}" alt="">
+{{ else }}
+  {{ errorf "Image '%s' not found in page resources. Place it in the same directory as your content file." (.Get "src") }}
+{{ end }}

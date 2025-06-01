@@ -1,5 +1,6 @@
 baseURL = 'https://khacke.github.io/'
 publishDir = "docs"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Khacke blog'
+theme = 'PaperMod'
+

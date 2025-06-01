@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Khacke blog</title>
     <link>https://khacke.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo</generator>
+    <description>Recent content on Khacke blog</description>
+    <generator>Hugo -- 0.147.7</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 13:21:01 +0200</lastBuildDate>
     <atom:link href="https://khacke.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How this site was made</title>
+      <link>https://khacke.github.io/posts/first/</link>
+      <pubDate>Sun, 01 Jun 2025 13:21:01 +0200</pubDate>
+      <guid>https://khacke.github.io/posts/first/</guid>
+      <description>&lt;p&gt;Hello, I&amp;rsquo;ve decided to create this website/blog for two main reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To catalog my journey, so i can look back at it anytime i want&lt;/li&gt;
+&lt;li&gt;Maybe someone will find something interesting in here&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This post is in english, but there may be/will be posts in hungarian as well, as it is my native language.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve tried Jekyll as it is supported by github pages by default, but I didn&amp;rsquo;t like it at all so i decided to use Hugo. As of now I&amp;rsquo;m happy with this decission.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
