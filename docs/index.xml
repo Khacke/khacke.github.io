@@ -19,7 +19,7 @@
 &lt;li&gt;Maybe someone will find something interesting in here&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This post is in english, but there may be/will be posts in hungarian as well, as it is my native language.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve tried Jekyll as it is supported by github pages by default, but I didn&amp;rsquo;t like it at all so i decided to use Hugo. As of now I&amp;rsquo;m happy with this decission.&lt;/p&gt;</description>
+&lt;p&gt;I&amp;rsquo;ve tried &lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt; as it is supported by github pages by default, but I didn&amp;rsquo;t like it at all so I decided to use &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;. As of now I&amp;rsquo;m happy with this decission.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

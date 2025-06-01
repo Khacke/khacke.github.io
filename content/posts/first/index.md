@@ -9,9 +9,9 @@ Hello, I've decided to create this website/blog for two main reasons:
 
 This post is in english, but there may be/will be posts in hungarian as well, as it is my native language.
 
-I've tried Jekyll as it is supported by github pages by default, but I didn't like it at all so i decided to use Hugo. As of now I'm happy with this decission.
+I've tried [Jekyll](https://jekyllrb.com/) as it is supported by github pages by default, but I didn't like it at all so I decided to use [Hugo](https://gohugo.io/). As of now I'm happy with this decission.
 
-You can leave comment bellow posts thanks to giscus. I'm too broke to use something like Disqus, and i wanted to use cactus comments but they don't work as of now.
+You can leave comment bellow posts thanks to [giscus](https://giscus.app/). I'm too broke to use something like [Disqus](https://disqus.com/pricing/), and i wanted to use [cactus comments](https://cactus.chat/) but they don't work as of now.
 But I'm happy with giscus.
 
 What to expect here?
